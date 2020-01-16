@@ -12,7 +12,7 @@ package hw.pkg0.mcmillen;
 public class HW0McMillen {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line argumentsssss
      */
     public static void main(String[] args) {
         // TODO code application logic here
